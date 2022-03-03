@@ -1,0 +1,13 @@
+---
+content_type: resource
+description: ''
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008/08767a3f980c3665d431f8ea81f16858_emfesoln_chp01.pdf
+file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Solutions Manual
+parent_type: SupplementalResourceSection
+resourcetype: Document
+title: emfesoln_chp01.pdf
+uid: 08767a3f-980c-3665-d431-f8ea81f16858
+---
