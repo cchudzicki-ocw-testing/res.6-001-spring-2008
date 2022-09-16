@@ -1,9 +1,7 @@
 {
   "term": "Spring",
   "year": "2008",
-  "level": [
-    "Undergraduate"
-  ],
+  "level": [],
   "topics": [
     [
       "Engineering",
@@ -45,6 +43,6 @@
     "Lecture Videos",
     "Problem Sets with Solutions"
   ],
-  "site_uid": "6c90175d-d109-4628-92f7-b2952dc85292",
+  "site_uid": "633730f0-e5a7-42f9-bf3d-28ae8144f9a9",
   "title": "Course Metadata"
 }
