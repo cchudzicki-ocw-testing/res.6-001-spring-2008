@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Electromagnetic Fields and Energy Solutions Manual.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Solutions Manual
